@@ -1,0 +1,6 @@
+rebound
+reboundx
+matplotlib
+astropy
+numpy
+scipy
